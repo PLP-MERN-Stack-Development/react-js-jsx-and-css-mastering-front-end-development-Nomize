@@ -14,7 +14,7 @@ A fully functional, responsive React application that demonstrates API integrati
 * 📰 **Dynamic Posts** fetched from a public API
 * ✅ **Task Manager** with local state handling
 * 📱 **Responsive Layout** built with Tailwind CSS
-* ⚛️ **React Router Integration** for multiple pages
+* ⚛️ **React Router Integration** for infinite scrolling
 * 🧠 **Context Management** for theme persistence
 * 🚫 **404 Page** for invalid routes
 
@@ -138,8 +138,14 @@ You can replace it with your own REST API endpoint for real data.
 * API integration with loading & error handling
 * Responsive Tailwind styling
 * Clean, well-organized, production-ready code
+* Deployed and accesible live on vercel
 
 ---
+
+## 🚀 Live Demo
+
+You can view the deployed project here:  
+👉 [https://react-js-jsx-and-css-mastering-fron-mu.vercel.app/](https://react-js-jsx-and-css-mastering-fron-mu.vercel.app/)
 
 ## 🧑‍💻 Author
 
